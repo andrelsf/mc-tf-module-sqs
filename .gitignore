@@ -38,3 +38,4 @@ environments/
 *.lock.hcl
 main_original.tf
 iam_original.tf
+example/.terraform
